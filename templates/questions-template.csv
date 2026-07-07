@@ -1,0 +1,6 @@
+question,choices,answer,why,difficulty,category,skin
+"A circuit has continuity when…","There is a complete unbroken path|The wire is copper|The breaker is big",There is a complete unbroken path,"No complete path, no current",easy,CIRC,both
+"Voltage drop is reduced by…",A larger conductor or shorter run|A bigger breaker|More connections,A larger conductor or shorter run,"Drop grows with length, shrinks with conductor size",medium,COND,theory
+"GFCI protection is required…",In damp and wet locations|Only in bedrooms|Only above 240 V,In damp and wet locations,"Anywhere water and people meet the circuit",easy,GRND,both
+"Demand factors exist because…","Not all loads run at once|Wire is expensive|Breakers are slow",Not all loads run at once,"Sizing for realistic peak demand, not the sum of every nameplate",medium,DIST,theory
+"A 20 A breaker with 25 A of load will…",Trip on overload|Run forever|Boost the voltage,Trip on overload,"Sustained current above rating opens the breaker",easy,OCP,both
